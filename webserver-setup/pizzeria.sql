@@ -1,3 +1,4 @@
+/* Na het aanpassen van deze query gebruik maken van docker compose up. */
 
 IF OBJECT_ID('User', 'U') IS NOT NULL
     DROP TABLE [User];
